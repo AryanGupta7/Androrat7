@@ -1,4 +1,6 @@
+https://pypi.org/simple/pip/
 colorama
 pyngrok
 pathlib
 pyngrok
+python
